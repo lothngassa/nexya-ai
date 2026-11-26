@@ -43,7 +43,7 @@ This repository is a showcase. The production code stays private.
 
 ## In numbers
 
-| | |
+| Figure | What it counts |
 |---:|---|
 | **69** | REST endpoints |
 | **30** | PostgreSQL tables |
